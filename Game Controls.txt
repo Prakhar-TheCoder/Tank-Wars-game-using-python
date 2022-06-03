@@ -1,0 +1,11 @@
+-----------------------------------Tank Wars---------------------------------------
+
+For player1 (LEFT SIDE):
+1) Movement Controls - W, A, S, D
+2) Bullet launch - C
+
+For player2 (RIGHT SIDE):
+1) Movement Controls - Arrow Keys
+2) Bullet launch - M
+
+Both players have 5-point health. When a bullet will touch opposite player, it would loose one life.
